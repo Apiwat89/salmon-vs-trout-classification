@@ -1,0 +1,2 @@
+Download the pre-trained model (.h5) from https://drive.google.com/file/d/1CwklsamSnqAO-k4ILvpBFhMG5b-ljxAP/view?usp=sharing
+Because the file size is too large
